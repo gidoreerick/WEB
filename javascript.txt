@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <title>
+       JavaScript
+    </title>
+    </head>
+    <body>
+    <hl>learning JavaScript</hl>
+    <p>Masue</p>
+    <script> type="text/JavaScript">
+         //document.write("hellow world")
+         let x=5;
+         let y=7;
+         let sum=x+y;
+         var name="ipt";
+         const pie
+
+
+
+         </script>
+    </body>
